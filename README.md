@@ -1,4 +1,4 @@
-![App Brewery Banner](https://drive.google.com/open?id=1XogTCKIuOkvcy3jiqyShmAvQgnHr0JGC)
+![Screenshot](https://res.cloudinary.com/kuforiji/image/upload/v1589414315/kufo_app_brewery.jpg)
 
 # Mi Card
 
@@ -18,4 +18,3 @@
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
