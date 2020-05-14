@@ -1,6 +1,6 @@
 ![Screenshot](https://res.cloudinary.com/kuforiji/image/upload/v1589414315/kufo_app_brewery.jpg)
 
-# Mi Card
+# Business Card App
 
 
 ## Topics learnt
